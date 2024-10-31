@@ -1,0 +1,6 @@
+oracle/simulator/enums/DirectionTest.class
+oracle/simulator/CostCalculatorTest.class
+oracle/simulator/ParsedCommandTest.class
+oracle/simulator/enums/SquareStateTest.class
+oracle/simulator/SiteCleanupSimulatorImplTest.class
+oracle/simulator/utils/FileUtilTest.class
